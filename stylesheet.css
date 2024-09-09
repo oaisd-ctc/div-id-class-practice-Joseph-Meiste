@@ -1,0 +1,35 @@
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    background-color:red;
+    border:10px solid;
+}
+#blue-box {
+    background-color:blue;
+}
+#white-box {
+    background-color:white;
+}
+#black-box {
+    background-color:black;
+}
+#red-box {
+    background-color:red;
+}
+#orange-box {
+    background-color:orange;
+}
+#yellow-box {
+    background-color:yellow;
+}
+#green-box {
+    background-color:green;
+}
+#purple-box {
+    background-color:purple;
+}
+
+#lime-box {
+    background-color:lime;
+}
